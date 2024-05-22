@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(29, 21, 56);
+}
+#test {
+    width: 900px;
+    height:700px;
+    margin: 0px auto;
+    border: 1px solid black;
+    margin-top: 10vh;
+    background-color: azure;
+}
+
+#heading{
+    text-align: center;
+    margin-top: 5vh;
+    color: grey;
+}
