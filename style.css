@@ -19,3 +19,37 @@ body{
     margin-top: 5vh;
     color: grey;
 }
+
+.small-display{
+    min-width: 12vw;
+    height: 15vh;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    border: 3px solid black;
+    background-color: grey;
+}
+
+#description{
+color: black;
+margin-bottom: 1vh;
+}
+
+#newArr, #clear{
+    margin-top: 2vh;
+    border-radius: 5px;
+}
+
+#user-Input{
+    width: 10vw;
+}
+
+#output{
+    min-width: 11vw;
+    border: 1px solid black;
+    height: 3vh;
+    margin-left: 0.5vw;
+    margin-right: 0.5vw;
+    margin-top: 1vh;
+    background-color: white;
+}
